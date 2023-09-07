@@ -24,5 +24,5 @@ notButton.addEventListener("click", function () {
 
 yesButton.addEventListener("click", function () {
     console.log("Botão SIM clicado!");
-    location.href = "https://www.youtube.com/shorts/ZBopboCfZX8";
+    location.href = "https://www.instagram.com/reel/CwWAlTrRSLv/?igshid=MWZjMTM2ODFkZg==";
 });
